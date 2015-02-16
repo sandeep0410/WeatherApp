@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+
+    <color name="abc_input_method_navigation_guard">@android:color/black</color>
+    <color name="home_background">#FFE5CC</color>
+    <color name="date_text_color">#AA334411</color>
+    <color name="temp_text_color">#AA774400</color>
+    <color name="loc_text_color">#AA334455</color>
+    <color name="divider_color">#FAFAFA</color>
+    <color name="details_color">#AA334455</color>
+</resources>
